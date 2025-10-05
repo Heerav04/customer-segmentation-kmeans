@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis Using K-Means Clustering
+# Customer Segmentation Using K-Means – Data Analytics Project
 
 ## Overview
 This project applies K-Means clustering to segment mall customers based on their age, income, and spending patterns. The aim is to help businesses understand different customer profiles for targeted marketing.
